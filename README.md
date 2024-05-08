@@ -9,5 +9,6 @@ El cual llevará la gestión de las publicaciones, las cuales realizan los autor
 Usuario.
 Este solo cuenta con la posibilidad de visualizar el contenido, el cual será subido por los administrativos del sitio web.
 ![image](https://github.com/TheDano343/BlogPhp/assets/128099070/cc57d792-22cb-4827-9a74-ab01e1ee2b81)
+![image](https://github.com/TheDano343/BlogPhp/assets/128099070/cc46c2bc-0fda-4014-8d35-cb70ad52195e)
 
 
